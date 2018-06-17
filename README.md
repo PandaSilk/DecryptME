@@ -15,5 +15,7 @@ Copy the DMSEC.dll to your applications Bin or Project folder, add the a referen
 
 
 Behind Firewall (not exposed) -> Behind Firewall (exposed) -> Interactive Mechanism (internet)
+
 Encryption Layer -> Application -> User
+
 DecryptME -> Your Product -> User Base
