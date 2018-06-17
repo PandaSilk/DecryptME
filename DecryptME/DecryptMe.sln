@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptMe", "DecryptMe\DecryptMe.csproj", "{462CA0DE-D65C-449E-B597-7F1304E68803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{462CA0DE-D65C-449E-B597-7F1304E68803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462CA0DE-D65C-449E-B597-7F1304E68803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462CA0DE-D65C-449E-B597-7F1304E68803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462CA0DE-D65C-449E-B597-7F1304E68803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B21111-35A7-429A-B406-F237B4BE58DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B21111-35A7-429A-B406-F237B4BE58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B21111-35A7-429A-B406-F237B4BE58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B21111-35A7-429A-B406-F237B4BE58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
